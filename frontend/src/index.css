@@ -1,0 +1,21 @@
+
+:root {
+  font-family: Arial, sans-serif;
+  color: #1e293b;
+  background: #f4f6fa;
+  font-synthesis: none;
+  text-rendering: optimizeLegibility;
+}
+
+html, body, #root {
+  min-height: 100%;
+  margin: 0;
+}
+
+body {
+  min-width: 320px;
+}
+
+button {
+  cursor: pointer;
+}

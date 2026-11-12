@@ -2,7 +2,7 @@
 import { useState, useEffect } from "react";
 import "./App.css";
 
-const API = "http://localhost:5000/api";
+const API = "https://stockflow-backend-ecuj.onrender.com/api";
 const TOKEN_KEY = "stockflow_token";
 
 function App() {
